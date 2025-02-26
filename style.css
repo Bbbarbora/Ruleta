@@ -1,0 +1,23 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    text-align: center;
+    padding-top: 300px;
+
+}
+
+.red {
+    background-color: red;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.black {
+    background-color: black;
+    color: yellow;
+}
+
+.notvalid {
+    background-color: yellow;
+    color: red;
+}
